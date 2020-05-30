@@ -1,0 +1,90 @@
+.search-button-ylee
+{
+    float: left!important;
+}
+
+
+.jumbotron
+{
+   
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    /* left: 0; */
+    z-index: 1000;
+    display: none;
+    width: 230px;
+    /* float: left; */
+    min-width: 10rem;
+    margin: 0.5rem -109px 9px;
+    font-size: 1rem;
+    color: #839496;
+    text-align: left;
+    list-style: none;
+    background-color: #073642;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 0.25rem;
+    
+}
+
+.favorite-img{
+
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.button-trash-ylee
+{
+    float: right;
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    background: #0000ff0f;
+    border: none;
+    color: aliceblue;
+    align-items: center;
+}
+
+.button-star-ylee
+{
+    
+    margin: -10px;
+    padding: 0px;
+    background: #0000ff0f;
+    border: none;
+    color: aliceblue;
+    align-items: center;
+}
+.button-star-ylee-selected
+{
+    
+    margin: -10px;
+    padding: 0px;
+    background: #0000ff0f;
+    border: none;
+    color: yellowgreen;
+    align-items: center;
+}
+.card-ylee img
+{
+    height: 150px;
+    min-height: 150px;
+    border-radius: 0.8rem;
+}
+
+.card-ylee{
+    height: 200px;
+    border-radius: 0.8rem;
+ 
+}
+
+.card-ylee i {
+    color: aliceblue;
+    margin-left: 0px;
+}
+.card-ylee .eye i{
+    color:#fb9a08;
+}

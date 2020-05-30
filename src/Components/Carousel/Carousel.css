@@ -1,0 +1,30 @@
+.carousel-control-next,
+.carousel-control-prev {
+  
+  color: black;
+background: black;
+height: 100px;
+margin-top: 4.5rem;
+width: 15px !important;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+
+.row-ylee {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -95px;
+  margin-left: 11px;
+}
+.carousel-indicators {
+  bottom:-90 px !important;
+}
+.carousel {
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.carousel-indicators li {
+  background-color: #272525 !important;
+}

@@ -1,0 +1,30 @@
+.card {
+    
+   
+   
+     border: none !important;
+     
+}  
+.release-date{
+
+    font-size: 16px;
+    margin-top:-10px
+}
+
+.movie-title-searched {
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: -20px;
+}
+.card-img, .card-img-top {
+    all: unset;
+    border-top-left-radius: calc(1.25rem - 1px);
+    border-top-right-radius: calc(1.25rem - 1px);
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+    flex-shrink: 0;
+    width: 100%;
+    border-radius: 1rem !important;
+}
+

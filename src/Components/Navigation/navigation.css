@@ -1,0 +1,20 @@
+
+
+
+.nav-lee {
+    border-radius: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    margin-top: 3px;
+    margin-bottom: 5px;
+    width: 250px;
+    margin-left: 5rem;
+}
+
+
+
+ .nav-lee .active{
+    color:white;
+    background: rgba(88, 80, 111, 0.99);
+    border-radius: 25px;
+    border:none;
+}
